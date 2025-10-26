@@ -148,7 +148,7 @@ Thanks to:
 
 ## 📬 Contact
 
-Made with ❤️ by [@gunjanghate](https://github.com/gunjanghate)
+Made with ❤️ by Team SupaStrikas.
 Open to contributions, feedback, and collaboration!
 
 ```
